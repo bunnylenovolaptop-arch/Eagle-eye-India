@@ -1,5 +1,0 @@
-backend/.env
-backend/eagle_eye_paper.sqlite3*
-data/
-__pycache__/
-*.pyc
